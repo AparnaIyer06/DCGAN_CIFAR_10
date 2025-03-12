@@ -15,13 +15,13 @@ Pixel values are normalized to a range of [-1, 1] to stabilize GAN training.
 The dataset is divided into mini-batches for efficient training.
 
 **How to Train the Model:**
-1. Install Dependencies
+1. Install Dependencies:
 Ensure that all required libraries such as PyTorch and Torchvision are installed.
 
-2. Run the Training Script
+2. Run the Training Script:
 Execute the training script to begin model training.
 
-3. Training Details
+4. Training Details:
 The model is trained for 25 epochs.
 The Adam optimizer is used with a learning rate of 0.0002 and β1 = 0.5.
 The batch size is set to 128.
