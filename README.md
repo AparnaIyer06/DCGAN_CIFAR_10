@@ -32,8 +32,10 @@ A comparison between real and generated images is visualized.
 Generated images are saved after each epoch.
 
 **Expected Output:**
- Discriminator and Generator losses during training.
-Visualization of Real vs. Generated Images.
+1. Discriminator and Generator losses during training.
+   
+2. Visualization of Real vs. Generated Images.
 
-Real CIFAR-10 Images are displayed as a reference.
-Generated Images from the DCGAN model improve in quality over epochs.
+3. Real CIFAR-10 Images are displayed as a reference.
+   
+4. Generated Images from the DCGAN model improve in quality over epochs.
